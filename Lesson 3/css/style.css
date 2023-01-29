@@ -1,0 +1,35 @@
+@import url(reset.css);
+
+h1{
+    color: blue;
+}
+h3{
+    color: tomato;
+}
+h2{
+    color: greenyellow;
+}
+ul{
+    color: aqua;
+}
+ol{
+    color: yellow;
+}
+.link{
+    color: violet;
+}
+p{
+    color: teal;
+}
+div.link{
+    color: springgreen;
+}
+.text *{
+    color: rgb(76, 0, 255);
+}
+.text2 {
+    color: chartreuse;
+}
+.id{
+    color: yellowgreen;
+}
